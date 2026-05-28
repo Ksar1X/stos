@@ -1,0 +1,3 @@
+C:/Users/admin/Desktop/Нужные программы/Коды/C++/project/cmake-build-debug/CMakeFiles/project.dir
+C:/Users/admin/Desktop/Нужные программы/Коды/C++/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/Desktop/Нужные программы/Коды/C++/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

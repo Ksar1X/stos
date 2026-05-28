@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/admin/Desktop/Нужные программы/Коды/C++/project/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -I\"C:/Users/admin/Desktop/Нужные программы/Коды/C++/project/stos\" -I\"C:/Users/admin/Desktop/Нужные программы/Коды/C++/project/stos/Exceptions\" -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\project.dir\\stos\\main.cpp.obj -c \"C:\\Users\\admin\\Desktop\\Нужные программы\\Коды\\C++\\project\\stos\\main.cpp\"",
+  "file": "C:/Users/admin/Desktop/Нужные программы/Коды/C++/project/stos/main.cpp",
+  "output": "C:/Users/admin/Desktop/Нужные программы/Коды/C++/project/cmake-build-debug/CMakeFiles/project.dir/stos/main.cpp.obj"
+}
+]
